@@ -69,7 +69,7 @@ Sehingga output yang dihasilkan :
 2. Implementasikan class diagram dibawah ini dengan menggunakan teknik dynamic method dispatch :
 sepemahaman saya teknik dynamic method dispatch itu bisa disebut juga dengan overriding yang mana memiliki sifat pewarisan dan mempunyai sub class yakni class manusia dan class turunannya ada class dosen dan mahasiswa.
 Gambar soal :
-
+<img src="ClassDiagramTugas2.PNG">
 
 Yang perlu dibuat ada 4 class, 3 class dari gambar dan 1 class main.
 class Manusia:
